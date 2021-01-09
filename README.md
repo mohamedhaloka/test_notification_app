@@ -1,16 +1,14 @@
 # test_flutter_app
 
-A new Flutter application.
+A notification flutter application.
 
-## Getting Started
+## Some Info about this project
 
-This project is a starting point for a Flutter application.
+This project is included a simple UI like a text in the center in app and App Bar.
 
-A few resources to get you started if this is your first Flutter project:
+## Main Job From This App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This app can get the fcm token and write it in the console.. You can test it by copy device fcmToken and paste it in cloud Messaging in firebase ..
+This app can recieve the notification when app is opening and when it closed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
